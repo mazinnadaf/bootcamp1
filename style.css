@@ -1,0 +1,29 @@
+body {
+    background-color: #6E7DAB;
+    
+    text-align: center; 
+    margin: 0; 
+    
+}
+.title {
+    font-size: xx-large;
+    h1 {text-align: center;}
+    margin-top: 0;
+}
+
+#catpic {
+    width: 50rem;
+    margin: 20rem 10rem;
+    margin: 0 auto; 
+}
+
+ol {
+    text-align: left; 
+    margin: 0 auto; 
+    max-width: 300px; 
+   
+}
+
+
+
+
